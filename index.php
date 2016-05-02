@@ -5,6 +5,7 @@
         <div class="row">
           <div class="col-sm-12">
             <div id="userControls" class="well well-sm">
+              <a href="index.php" class="btn" role="button">Refresh</a>
               <a href="logout.php" class="btn" role="button">Logout</a>
             </div>
             <form method="post" action="newPost.php" class="form-group well well-sm">
