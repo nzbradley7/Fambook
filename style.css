@@ -1,0 +1,65 @@
+body
+{
+  background: #EEC644;
+}
+
+h1,
+h2,
+h3,
+h4
+{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+p
+{
+  font-family: 'Roboto', sans-serif;
+}
+
+input
+{
+  border-radius: 0px !important;
+}
+
+img
+{
+  max-height: 300px;
+}
+
+.job-info
+{
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  padding: 1%;
+}
+
+.contact
+{
+  font-weight: bold;
+}
+
+.well
+{
+  border-radius: 0px !important;
+}
+
+.btn
+{
+  background: #CCC;
+  color: #111;
+  border-radius: 0px !important;
+}
+
+#description
+{
+  border-bottom: 1px solid #bbb;
+}
+
+#to-top
+{
+  position: fixed;
+  bottom: 5px;
+  left: 5px;
+  font-size: 60px;
+  color: rgba(0, 0, 0, 0.3);
+}
